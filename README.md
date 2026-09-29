@@ -84,15 +84,6 @@ ai50-projects-2024-x-tictactoe/
 
 `tictactoe.py` contains the game logic and AI implementation. The graphical interface is provided by the original CS50 project distribution.
 
-## What I Learned
-
-* How the Minimax algorithm works
-* How to represent a game as a state space
-* How recursive search can be used for AI
-* How to evaluate game states
-* How to find optimal moves
-* How game-playing AI makes decisions
-
 ## Course
 
 **CS50's Introduction to Artificial Intelligence with Python**
